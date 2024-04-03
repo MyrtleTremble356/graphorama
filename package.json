@@ -1,0 +1,39 @@
+{
+  "name": "graphorama",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyrtleTremble356/graphorama.git"
+  },
+  "author": "MyrtleTremble356",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyrtleTremble356/graphorama/issues"
+  },
+  "homepage": "https://github.com/MyrtleTremble356/graphorama#readme",
+  "dependencies": {
+    "@yindongfang/keybinding": "^1.0.1",
+    "blob": "^0.1.0",
+    "cytoscape": "^3.28.1",
+    "express": "^4.19.2",
+    "is-array": "^1.0.1",
+    "is-bool": "^0.0.3",
+    "is-falsy": "^0.0.1",
+    "is-object": "^1.0.2",
+    "is-odd": "^3.0.1",
+    "is-string": "^1.0.7",
+    "jquery": "^3.7.1",
+    "lazy-store-loader": "^2.0.3",
+    "lodash": "^4.17.21",
+    "nodemon": "^3.1.0",
+    "octokit": "^3.1.2",
+    "qs": "^6.12.0",
+    "vue": "^3.4.21",
+    "[object Object]": "^1.0.0"
+  }
+}
